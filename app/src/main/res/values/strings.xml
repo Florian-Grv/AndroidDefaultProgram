@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroidDefaultProgram</string>
+    <string name="euro">euro</string>
+    <string name="dollar">dollar</string>
+    <string name="yen">yen</string>
+    <string name="euroDollar"><![CDATA[Euro <-> Dollar]]></string>
+    <string name="euroYen"><![CDATA[Euro <-> Yen]]></string>
+    <string name="dollarYen"><![CDATA[Dollar <-> Yen]]></string>
 </resources>
